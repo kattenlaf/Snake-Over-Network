@@ -12,7 +12,6 @@
 __author__ = suraj singh bisht
 __found__ = http://www.bitforestinfo.com/2018/01/linux-console-snake-game-using-cpp.html
 __edited_by__ = ruel gordon
-
 */
 
 
